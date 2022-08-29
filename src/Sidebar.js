@@ -6,7 +6,10 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar__top">
-        <img src="" alt="" />
+        <img
+          src="https://t4.ftcdn.net/jpg/00/02/36/65/240_F_2366589_VXU9OBC0fBTm5bt3D1gq8eSl3DWpzd.jpg"
+          alt=""
+        />
         <Avatar className="sidebar__avatar" />
         <h2>Ben Orho</h2>
         <h4>benorho@gmail.com</h4>
